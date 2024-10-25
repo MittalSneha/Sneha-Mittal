@@ -41,4 +41,4 @@
 
 **Kohn-Sham Orbital Analysis:** Applied Density Functional Theory (DFT) for Kohn-Sham orbital analysis to study molecular interactions. 
 
-**Mg Complex Mechanism:** Conducted mechanistic studies of magnesium complexes for catalytic applications, integrating quantum chemical calculations with experimental data.
+**Mg Complex Mechanism:** Conducted mechanistic studies of magnesium complexes for catalytic applications.
