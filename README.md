@@ -35,7 +35,7 @@
 
 **Vitamins:** Investigated molecular signatures of vitamins using quantum transport for advanced biosensing applications.
 
-**Catalysis & Experimental Collaboration**
+**Experimental Collaboration**
 
 **Nanocluster for Catalysis:** Collaborated on experimental projects involving nanoclusters and investigated their optical and electronic properties.
 
